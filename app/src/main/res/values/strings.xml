@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApartmentsHomes</string>
+    <string name="search">Найти</string>
+    <string name="filter">filter</string>
+    <string name="call">Позвонить</string>
+    <string name="house_image">house_image</string>
+    <string name="address">Бишкек, улица Пушкина, дом 5</string>
+</resources>
